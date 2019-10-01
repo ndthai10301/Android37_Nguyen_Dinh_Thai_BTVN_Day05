@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Android37_Nguyen_Dinh_Thai_BTVN_Day05</string>
+    <string name="title_name">Login</string>
+    <string name="btnCancel_str">Hủy bỏ</string>
+    <string name="btnLogin_str">Đăng nhập</string>
+    <string name="Password_str">Mật khẩu</string>
+    <string name="Username_str">Tên đăng nhập</string>
+    <string name="title_exit">Thoát</string>
+    <string name="msg_str">Bạn chắc chắn có muốn thoát ?</string>
+    <string name="notnow_str">Để lần sau</string>
+    <string name="yesexitnow_str">Thoát ngay</string>
+    <string name="confirm_str">Xác nhận thông tin</string>
+    <string name="notify_str">Thông báo</string>
+    <string name="ok_str">Đồng ý</string>
+    <string name="error_str">Thông báo lỗi</string>
+    <string name="title2">Create New Note</string>
+    <string name="login_wrong">Tên đăng nhập hoặc mật khẩu không hợp lệ, Bạn không thể đăng nhập</string>
+    <!--Menu-->
+    <string name="save_str">Save</string>
+    <string name="cancel_str">Cancel</string>
+<!--Spinner-->
+    <string-array name="type1">
+        <item>Work Alone</item>
+        <item>Company</item>
+        <item>Home</item>
+    </string-array>
+<!--Array tags-->
+    <string-array name="tags_items">
+        <item>Family</item>
+        <item>Game</item>
+        <item>Android</item>
+        <item>VTC</item>
+        <item>Friend</item>
+    </string-array>
+</resources>
